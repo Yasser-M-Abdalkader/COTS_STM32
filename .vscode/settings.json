@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "rcc_private.h": "c",
+        "gpio_config.h": "c"
+    }
+}
