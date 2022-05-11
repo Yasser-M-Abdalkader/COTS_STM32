@@ -1,13 +1,11 @@
-/**
+/************************************************************************************************
  * @file RCC_prog.c
- * @author Yasser Mustafa 
+ * @author Yasser M. Abdalkader (m.abdelkader.yasser@gmail.com) 
  * @brief RCC Driver - MCAL
  * @version 0.1
  * @date 2022-02-14
- * 
  * @copyright Copyright (c) 2022
- * 
- */
+ ************************************************************************************************/
 #include "STD_TYPES.h"
 #include "BIT_MATH.h"
 

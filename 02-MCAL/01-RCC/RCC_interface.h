@@ -1,13 +1,11 @@
-/**
+/************************************************************************************************
  * @file RCC_interface.h
- * @author Yasser Mustafa 
+ * @author Yasser M. Abdalkader (m.abdelkader.yasser@gmail.com) 
  * @brief RCC Driver - MCAL
  * @version 0.1
  * @date 2022-02-14
- * 
  * @copyright Copyright (c) 2022
- * 
- */
+ ************************************************************************************************/
 
 #ifndef RCC_INTERFACE_H
 #define RCC_INTERFACE_H
