@@ -11,11 +11,11 @@
 #define RCC_CONFIG_H
 
 /**
- * @note choose the following:
- * @param               RCC_HSE_CRYSTAL
- * @param               RCC_HSE_RC
- * @param               RCC_HSI
- * @param               RCC_PLL 
+ * @note    Choose the following:
+ * @param   RCC_HSE_CRYSTAL
+ * @param   RCC_HSE_RC
+ * @param   RCC_HSI
+ * @param   RCC_PLL 
  * 
  */
 #define RCC_CLOCK_TYPE  RCC_PLL
