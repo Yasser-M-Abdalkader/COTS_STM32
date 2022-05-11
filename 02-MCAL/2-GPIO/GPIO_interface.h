@@ -6,7 +6,6 @@
  * @date       2022-02-15
  * @copyright  Copyright (c) 2022
  ***********************************************************************************/
-
 #ifndef GPIO_INTERFACE_H
 #define GPIO_INTERFACE_H
 
