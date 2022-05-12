@@ -2,5 +2,6 @@
     "files.associations": {
         "rcc_private.h": "c",
         "gpio_config.h": "c"
-    }
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
 }
